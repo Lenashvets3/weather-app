@@ -1,0 +1,72 @@
+h1 {
+  color: white;
+  font-family: "Shrikhand", cursive;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: "Roboto Serif", serif;
+  font-size: 30px;
+}
+
+form {
+  position: relative;
+  top: -140px;
+  right: -270px;
+}
+
+.sunny-icon {
+  color: yellow;
+  font-size: 50px;
+}
+
+#current-temperature {
+  font-size: 30px;
+}
+
+.indicators {
+  background: rgb(68, 115, 243);
+  border-radius: 70px;
+  font-style: italic;
+  position: relative;
+  padding: 10px 100px;
+  margin: 20px 130px;
+  top: -140px;
+  right: -130px;
+}
+
+#current-location-button {
+  position: relative;
+  top: -175px;
+  right: -530px;
+  background-color: aliceblue;
+}
+
+.body-container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 30px;
+  background: rgb(132, 205, 239);
+  border-radius: 10px;
+  border: darkblue;
+  display: block;
+}
+
+div.temperatura {
+  color: red;
+}
+
+i.rain-icon,
+i.cloud-icon {
+  color: blue;
+  font-size: 35px;
+}
+
+i.sun-icon {
+  color: yellow;
+  font-size: 35px;
+}
+div.col {
+  color: white;
+  font-size: 25px;
+}
